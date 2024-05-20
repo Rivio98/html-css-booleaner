@@ -1,1 +1,18 @@
-#logo
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: auto;
+    height: 170px;
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    background-color: lightskyblue;
+}
+
+#logo {
+    width: 350px;
+    padding: 80px 10px 20px;
+
+}
