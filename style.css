@@ -37,6 +37,33 @@ div {
     background-color: lightskyblue;
 }
 
-.row {
-    border: 1px solid black;
+.prima {
+    width: 25%;
+}
+
+.seconda {
+    width: 25%;
+}
+
+.terza {
+    width: 50%;
+}
+
+.tabella {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.colored {
+    background-color: lightblue;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pic {
+    display: block;
+    padding-top: 15px;
 }
