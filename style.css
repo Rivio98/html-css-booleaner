@@ -32,3 +32,11 @@ div {
 .punti-discorso {
     padding-left: 10px;
 }
+
+.row-bottom {
+    background-color: lightskyblue;
+}
+
+.row {
+    border: 1px solid black;
+}
