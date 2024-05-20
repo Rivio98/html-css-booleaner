@@ -67,3 +67,8 @@ td {
     display: block;
     padding-top: 15px;
 }
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+}
